@@ -1,0 +1,20 @@
+Java HotSpot(TM) 64-Bit Server VM (25.261-b12) for bsd-amd64 JRE (1.8.0_261-b12), built on Jun 18 2020 06:38:55 by "java_re" with gcc 4.2.1 Compatible Apple LLVM 10.0.0 (clang-1000.11.45.5)
+Memory: 4k page, physical 8388608k(865676k free)
+
+/proc/meminfo:
+
+CommandLine flags: -XX:InitialHeapSize=2147483648 -XX:MaxHeapSize=2147483648 -XX:+PrintGC -XX:+PrintGCDateStamps -XX:+PrintGCTimeStamps -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseG1GC 
+2020-10-29T17:01:16.885-0800: 0.169: [GC pause (G1 Evacuation Pause) (young) 130M->48M(2048M), 0.0150802 secs]
+2020-10-29T17:01:16.936-0800: 0.220: [GC pause (G1 Evacuation Pause) (young) 158M->83M(2048M), 0.0136817 secs]
+2020-10-29T17:01:16.972-0800: 0.256: [GC pause (G1 Evacuation Pause) (young) 204M->125M(2048M), 0.0142440 secs]
+2020-10-29T17:01:17.003-0800: 0.287: [GC pause (G1 Evacuation Pause) (young) 232M->158M(2048M), 0.0095032 secs]
+2020-10-29T17:01:17.029-0800: 0.313: [GC pause (G1 Evacuation Pause) (young) 266M->190M(2048M), 0.0126499 secs]
+2020-10-29T17:01:17.078-0800: 0.362: [GC pause (G1 Evacuation Pause) (young) 351M->236M(2048M), 0.0201503 secs]
+2020-10-29T17:01:17.130-0800: 0.414: [GC pause (G1 Evacuation Pause) (young) 422M->288M(2048M), 0.0190757 secs]
+2020-10-29T17:01:17.241-0800: 0.524: [GC pause (G1 Evacuation Pause) (young) 608M->363M(2048M), 0.0374232 secs]
+2020-10-29T17:01:17.304-0800: 0.588: [GC pause (G1 Evacuation Pause) (young) 554M->410M(2048M), 0.0129614 secs]
+2020-10-29T17:01:17.366-0800: 0.650: [GC pause (G1 Evacuation Pause) (young) 677M->467M(2048M), 0.0234700 secs]
+2020-10-29T17:01:17.431-0800: 0.715: [GC pause (G1 Evacuation Pause) (young) 773M->531M(2048M), 0.0375724 secs]
+2020-10-29T17:01:17.537-0800: 0.821: [GC pause (G1 Evacuation Pause) (young) 896M->607M(2048M), 0.1079082 secs]
+2020-10-29T17:01:17.677-0800: 0.960: [GC pause (G1 Evacuation Pause) (young) 811M->666M(2048M), 0.0167510 secs]
+2020-10-29T17:01:17.740-0800: 1.023: [GC pause (G1 Evacuation Pause) (young) 971M->737M(2048M), 0.0288174 secs]

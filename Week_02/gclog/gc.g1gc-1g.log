@@ -1,0 +1,38 @@
+Java HotSpot(TM) 64-Bit Server VM (25.261-b12) for bsd-amd64 JRE (1.8.0_261-b12), built on Jun 18 2020 06:38:55 by "java_re" with gcc 4.2.1 Compatible Apple LLVM 10.0.0 (clang-1000.11.45.5)
+Memory: 4k page, physical 8388608k(748432k free)
+
+/proc/meminfo:
+
+CommandLine flags: -XX:InitialHeapSize=1073741824 -XX:MaxHeapSize=1073741824 -XX:+PrintGC -XX:+PrintGCDateStamps -XX:+PrintGCTimeStamps -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseG1GC 
+2020-10-29T17:01:55.156-0800: 0.136: [GC pause (G1 Evacuation Pause) (young) 64M->22M(1024M), 0.0070530 secs]
+2020-10-29T17:01:55.174-0800: 0.153: [GC pause (G1 Evacuation Pause) (young) 79M->38M(1024M), 0.0052396 secs]
+2020-10-29T17:01:55.193-0800: 0.172: [GC pause (G1 Evacuation Pause) (young) 95M->60M(1024M), 0.0076680 secs]
+2020-10-29T17:01:55.230-0800: 0.209: [GC pause (G1 Evacuation Pause) (young) 144M->87M(1024M), 0.0143211 secs]
+2020-10-29T17:01:55.309-0800: 0.288: [GC pause (G1 Evacuation Pause) (young) 272M->143M(1024M), 0.0238215 secs]
+2020-10-29T17:01:55.348-0800: 0.327: [GC pause (G1 Evacuation Pause) (young) 243M->174M(1024M), 0.0078380 secs]
+2020-10-29T17:01:55.386-0800: 0.366: [GC pause (G1 Evacuation Pause) (young) 338M->214M(1024M), 0.0121778 secs]
+2020-10-29T17:01:55.436-0800: 0.415: [GC pause (G1 Evacuation Pause) (young) 419M->262M(1024M), 0.0208585 secs]
+2020-10-29T17:01:55.487-0800: 0.466: [GC pause (G1 Evacuation Pause) (young) 482M->316M(1024M), 0.0233359 secs]
+2020-10-29T17:01:55.611-0800: 0.590: [GC pause (G1 Evacuation Pause) (young) 692M->400M(1024M), 0.0994302 secs]
+2020-10-29T17:01:55.730-0800: 0.709: [GC pause (G1 Humongous Allocation) (young) (initial-mark) 547M->432M(1024M), 0.0099019 secs]
+2020-10-29T17:01:55.740-0800: 0.719: [GC concurrent-root-region-scan-start]
+2020-10-29T17:01:55.740-0800: 0.719: [GC concurrent-root-region-scan-end, 0.0001095 secs]
+2020-10-29T17:01:55.740-0800: 0.719: [GC concurrent-mark-start]
+2020-10-29T17:01:55.743-0800: 0.722: [GC concurrent-mark-end, 0.0029768 secs]
+2020-10-29T17:01:55.743-0800: 0.722: [GC remark, 0.0019945 secs]
+2020-10-29T17:01:55.745-0800: 0.724: [GC cleanup 454M->433M(1024M), 0.0008350 secs]
+2020-10-29T17:01:55.746-0800: 0.725: [GC concurrent-cleanup-start]
+2020-10-29T17:01:55.746-0800: 0.725: [GC concurrent-cleanup-end, 0.0000202 secs]
+2020-10-29T17:01:55.868-0800: 0.847: [GC pause (G1 Evacuation Pause) (young) 751M->494M(1024M), 0.0622629 secs]
+2020-10-29T17:01:55.933-0800: 0.913: [GC pause (G1 Evacuation Pause) (mixed) 512M->411M(1024M), 0.0295806 secs]
+2020-10-29T17:01:55.971-0800: 0.950: [GC pause (G1 Evacuation Pause) (mixed) 472M->425M(1024M), 0.0036776 secs]
+2020-10-29T17:01:55.975-0800: 0.954: [GC pause (G1 Humongous Allocation) (young) (initial-mark) 426M->425M(1024M), 0.0023024 secs]
+2020-10-29T17:01:55.977-0800: 0.956: [GC concurrent-root-region-scan-start]
+2020-10-29T17:01:55.977-0800: 0.956: [GC concurrent-root-region-scan-end, 0.0000717 secs]
+2020-10-29T17:01:55.977-0800: 0.956: [GC concurrent-mark-start]
+2020-10-29T17:01:55.979-0800: 0.958: [GC concurrent-mark-end, 0.0015227 secs]
+2020-10-29T17:01:55.979-0800: 0.958: [GC remark, 0.0019013 secs]
+2020-10-29T17:01:55.981-0800: 0.960: [GC cleanup 434M->425M(1024M), 0.0006199 secs]
+2020-10-29T17:01:55.981-0800: 0.961: [GC concurrent-cleanup-start]
+2020-10-29T17:01:55.981-0800: 0.961: [GC concurrent-cleanup-end, 0.0000099 secs]
+2020-10-29T17:01:56.075-0800: 1.054: [GC pause (G1 Evacuation Pause) (young)-- 873M->718M(1024M), 0.0318484 secs]

@@ -1,0 +1,18 @@
+Java HotSpot(TM) 64-Bit Server VM (25.261-b12) for bsd-amd64 JRE (1.8.0_261-b12), built on Jun 18 2020 06:38:55 by "java_re" with gcc 4.2.1 Compatible Apple LLVM 10.0.0 (clang-1000.11.45.5)
+Memory: 4k page, physical 8388608k(1127676k free)
+
+/proc/meminfo:
+
+CommandLine flags: -XX:InitialHeapSize=2147483648 -XX:MaxHeapSize=2147483648 -XX:MaxNewSize=697933824 -XX:MaxTenuringThreshold=6 -XX:NewSize=697933824 -XX:OldPLABSize=16 -XX:OldSize=1395867648 -XX:+PrintGC -XX:+PrintGCDateStamps -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseConcMarkSweepGC -XX:+UseParNewGC 
+2020-10-29T16:47:32.671-0800: 0.367: [GC (Allocation Failure) 2020-10-29T16:47:32.671-0800: 0.367: [ParNew: 545344K->68096K(613440K), 0.0579094 secs] 545344K->144504K(2029056K), 0.0580363 secs] [Times: user=0.09 sys=0.26, real=0.05 secs] 
+2020-10-29T16:47:32.809-0800: 0.504: [GC (Allocation Failure) 2020-10-29T16:47:32.809-0800: 0.505: [ParNew: 613440K->68096K(613440K), 0.1795524 secs] 689848K->276197K(2029056K), 0.1796767 secs] [Times: user=0.17 sys=0.20, real=0.18 secs] 
+2020-10-29T16:47:33.075-0800: 0.771: [GC (Allocation Failure) 2020-10-29T16:47:33.076-0800: 0.771: [ParNew: 613440K->68096K(613440K), 0.1267204 secs] 821541K->400414K(2029056K), 0.1268323 secs] [Times: user=0.58 sys=0.05, real=0.13 secs] 
+2020-10-29T16:47:33.267-0800: 0.962: [GC (Allocation Failure) 2020-10-29T16:47:33.267-0800: 0.962: [ParNew: 613440K->68095K(613440K), 0.1173051 secs] 945758K->524065K(2029056K), 0.1174156 secs] [Times: user=0.57 sys=0.06, real=0.12 secs] 
+Heap
+ par new generation   total 613440K, used 89967K [0x0000000740000000, 0x0000000769990000, 0x0000000769990000)
+  eden space 545344K,   4% used [0x0000000740000000, 0x000000074155c080, 0x0000000761490000)
+  from space 68096K,  99% used [0x0000000761490000, 0x000000076570fc18, 0x0000000765710000)
+  to   space 68096K,   0% used [0x0000000765710000, 0x0000000765710000, 0x0000000769990000)
+ concurrent mark-sweep generation total 1415616K, used 455970K [0x0000000769990000, 0x00000007c0000000, 0x00000007c0000000)
+ Metaspace       used 2732K, capacity 4486K, committed 4864K, reserved 1056768K
+  class space    used 296K, capacity 386K, committed 512K, reserved 1048576K

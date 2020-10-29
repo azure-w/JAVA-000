@@ -1,0 +1,18 @@
+Java HotSpot(TM) 64-Bit Server VM (25.261-b12) for bsd-amd64 JRE (1.8.0_261-b12), built on Jun 18 2020 06:38:55 by "java_re" with gcc 4.2.1 Compatible Apple LLVM 10.0.0 (clang-1000.11.45.5)
+Memory: 4k page, physical 8388608k(566876k free)
+
+/proc/meminfo:
+
+CommandLine flags: -XX:InitialHeapSize=4294967296 -XX:MaxHeapSize=4294967296 -XX:+PrintGC -XX:+PrintGCDateStamps -XX:+PrintGCTimeStamps -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseG1GC 
+2020-10-29T17:00:53.264-0800: 0.288: [GC pause (G1 Evacuation Pause) (young) 204M->73M(4096M), 0.0300693 secs]
+2020-10-29T17:00:53.320-0800: 0.343: [GC pause (G1 Evacuation Pause) (young) 251M->125M(4096M), 0.0231548 secs]
+2020-10-29T17:00:53.363-0800: 0.386: [GC pause (G1 Evacuation Pause) (young) 303M->191M(4096M), 0.0279479 secs]
+2020-10-29T17:00:53.410-0800: 0.434: [GC pause (G1 Evacuation Pause) (young) 369M->251M(4096M), 0.0255562 secs]
+2020-10-29T17:00:53.455-0800: 0.478: [GC pause (G1 Evacuation Pause) (young) 429M->316M(4096M), 0.0528233 secs]
+2020-10-29T17:00:53.527-0800: 0.551: [GC pause (G1 Evacuation Pause) (young) 494M->368M(4096M), 0.0429060 secs]
+2020-10-29T17:00:53.593-0800: 0.616: [GC pause (G1 Evacuation Pause) (young) 546M->425M(4096M), 0.0297343 secs]
+2020-10-29T17:00:53.644-0800: 0.667: [GC pause (G1 Evacuation Pause) (young) 603M->479M(4096M), 0.0305771 secs]
+2020-10-29T17:00:53.732-0800: 0.756: [GC pause (G1 Evacuation Pause) (young) 739M->560M(4096M), 0.0415422 secs]
+2020-10-29T17:00:53.801-0800: 0.824: [GC pause (G1 Evacuation Pause) (young) 816M->635M(4096M), 0.0421114 secs]
+2020-10-29T17:00:53.913-0800: 0.936: [GC pause (G1 Evacuation Pause) (young) 973M->731M(4096M), 0.0968826 secs]
+2020-10-29T17:00:54.052-0800: 1.075: [GC pause (G1 Evacuation Pause) (young) 1051M->823M(4096M), 0.0642461 secs]
